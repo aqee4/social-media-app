@@ -847,6 +847,7 @@
   margin-top: 2rem;
   border-radius: 1rem;
   border: 2px solid #fff;
+  border-color:green;
 }
 
 .postPublished .top {

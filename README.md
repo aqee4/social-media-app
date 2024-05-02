@@ -31,7 +31,8 @@ This project builds a basic, functional social media website. Users can log in, 
     - Handling user actions (search, limited comment interaction)
 
 ### Data Storage:
-
+## Dark mode
+- A dark mode apply when click on dark mode button
 - **localStorage:**
     - Stores user data (including token) for session persistence.
 - **Mock API (dummyjson.com):**
